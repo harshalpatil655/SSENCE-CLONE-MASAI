@@ -1,0 +1,469 @@
+body:hover{
+    cursor: pointer;
+}
+
+#firstBox{
+    display: flex;
+    /* border: 1px solid black; */
+    width: 85%;
+    margin: auto;
+    /* height: 600px; */
+    gap: 70px;
+  
+}
+
+#firstFirstBox{
+    width: 50%;
+}
+
+#firstFirstBox:hover,#firstSecBox:hover{
+    cursor: pointer;
+}
+
+
+#firstSecBox{
+    width: 50%;
+}
+
+.first{
+    /* border: 1px solid red; */
+    /* margin-left: 30px; */
+    width: 50%;
+}
+
+img{
+    width: 100%;
+}
+
+.fashion{
+    color: #35383a;
+    font-size: 14px;
+   font-family: sans-serif;
+}
+
+.span{
+    /* color: red; */
+    font-size: 21px;
+   font-family: sans-serif;
+    margin-left: 30px;
+    color: #35383a;
+}
+
+.neeche{
+    font-size: 22px;
+   font-family: sans-serif;
+    color: #35383a;
+    margin-top: -12px;
+}
+
+#secondBox{
+    width: 95%;
+    margin: auto;
+    /* border: 1px solid black; */
+    /* height: 800px; */
+    margin-top: 50px;
+    display: flex;
+    gap: 70px;
+}
+
+.second{
+    width: 33%;
+    /* border: 1px solid black; */
+   font-family: sans-serif;
+}
+
+#span2{
+    margin-left: 90px;
+   font-family: sans-serif;
+   font-size: 21px;
+   color: #35383a;
+}
+
+.fashion2{
+    margin-left: 95px;
+    margin-top: -12px;
+   font-family: sans-serif;
+    color: #35383a;
+    font-size: 14px;
+}
+
+.thirdBox{
+    display: flex;
+    /* border: 1px solid black; */
+    width: 85%;
+    margin: auto;
+    /* height: 600px; */
+    gap: 70px;
+    margin-top: 80px;
+   font-family: sans-serif;
+}
+
+.btn{
+    padding: 12px 18px;
+    border-radius: 10px;
+    border: 1px solid gray;
+    background-color: white;
+    margin-top: -3px;
+    font-size: 16px;
+    color: #35383a;
+}
+
+.forthBox{
+    /* border: 1px solid black; */
+    width: 95%;
+    margin: auto;
+    height: 150px;
+    display: flex;
+    margin-top: 50px;
+    gap: 30px;
+}
+
+.littleBox{
+    width: 19%;
+    /* border: 1px solid black; */
+  display: flex;
+  border-top:1px solid gray;
+  border-bottom: 1px solid gray;
+}
+
+#artist{
+    display: flex;
+    font-size: 40px;
+    /* margin-top: -1px; */
+    margin-top: 10px;
+    padding-bottom: 25px;
+    color: #35383a;
+}
+
+#story{
+    display: block;
+   /* padding-top: 60px; */
+   color: #35383a;
+}
+
+.change{
+    height: 85%;
+    margin-top: 10px;
+    width: 100%;
+}
+
+#artistBox{
+    width: 19%;
+    /* border: 1px solid black; */
+  display: block;
+  border-top:1px solid gray;
+  border-bottom: 1px solid gray;
+}
+
+.imgBox{
+    /* border: 1px solid red; */
+    width: 32%;
+    height: 100%;
+    display: flex;
+}
+
+.upDownBox{
+    /* border: 1px solid blue; */
+    height: 100%;
+    width: 60%;
+    margin-left: 8px;
+}
+
+.up{
+    display: block;
+    margin-top: 10px;
+    padding-bottom: 50px;
+    color: #35383a;
+    font-size: 16px;
+   font-family: sans-serif;
+}
+
+#upUnique{
+    display: block;
+    margin-top: 10px;
+    padding-bottom: 70px;
+    color: #35383a;
+    font-size: 16px;
+   font-family: sans-serif;
+}
+
+
+#fifthBox{
+    width: 95%;
+    /* border: 1px solid black; */
+    margin: auto;
+    /* height: 700px; */
+    margin-top: 70px;
+    display: flex;
+}
+
+
+#fifthFirstBox{
+    /* border: 1px solid red; */
+    width: 58%;
+    height: 100%;
+}
+
+#fifthSecBox{
+    /* border: 1px solid black; */
+    margin-left: 40px;
+    width: 19%;
+    height: 600px;
+}
+
+#fifthThirdBox{
+    /* border: 1px solid blue; */
+    margin-left: 30px;
+    width: 18.5%;
+    /* height: 100%; */
+}
+
+#ffMiniBox{
+    width: 100%;
+    /* border: 1px solid black; */
+    height: 45%;
+    display: flex;
+}
+
+.ffImgBox{
+    width: 45.5%;
+    /* border: 1px solid red; */
+    height: 100%;
+    
+}
+
+.miniImg{
+    height: 100%;
+    /* width: 45.5%; */
+    height: 100%;
+}
+
+.ffWittenBox{
+    width: 54.5%;
+    /* border: 1px solid purple; */
+    height: 100%;
+    margin-left: 20px;
+}
+
+.written{
+    font-size: 34px;
+    color: #35383a;
+    display: block;
+    margin-top: 5px;
+   font-family: sans-serif;
+}
+
+.written1{
+    color: #35383a;
+    display: block;
+    margin-top: -35px;
+   font-family: sans-serif;
+}
+
+.written2{
+    color: #35383a;
+    display: block;
+    /* margin-top: -35px; */
+   font-family: sans-serif;
+    font-size: 23px;
+    margin-top: 30px;
+}
+
+#ffMiniBox2{
+    width: 100%;
+    /* border: 1px solid black; */
+    height: 45%;
+    display: flex;
+    margin-top: 40px;
+}
+
+.written3{
+    color: #35383a;
+    display: block;
+    /* margin-top: -35px; */
+   font-family: sans-serif;
+    font-size: 23px;
+    margin-top: 10px;
+}
+
+.fashion3{
+    margin-top: -20px;
+    color: #35383a;
+}
+
+.ftMiniBox{
+    width: 100%;
+    /* border: 1px solid black; */
+  /* height: 180px; */
+  border-top:1px solid gray;
+  /* border-bottom: 1px solid gray; */
+  display: flex;
+
+}
+
+
+.MiniImgBox{
+    width: 40%;
+    /* height: 100%; */
+    /* border: 1px solid black; */
+    color: #35383a;
+}
+
+.MiniupDownBox{
+    /* border: 1px solid blue; */
+    /* height: 100%; */
+    width: 50%;
+    margin-left: 35px;
+    font-size: 16px;
+    color: #35383a;
+    display: block;
+}
+
+.Miniup{
+    display: block;
+    /* padding-bottom: 80px; */
+    color: #35383a;
+    font-size: 16px;
+   font-family: sans-serif; 
+}
+
+.Miniup1{
+    display: block;
+    padding-bottom: 70px;
+    color: #35383a;
+    font-size: 16px;
+   font-family: sans-serif; 
+}
+
+.Miniup2{
+    display: block;
+    padding-bottom: 50px;
+    color: #35383a;
+    font-size: 16px;
+   font-family: sans-serif;
+}
+
+
+.ftMiniBox1{
+    width: 100%;
+    /* border: 1px solid black; */
+  /* height: 180px; */
+  border-top:1px solid gray;
+  border-bottom: 1px solid gray;
+  display: flex;
+
+}
+
+#sixthBox{
+    /* border: 1px solid red; */
+    width: 95%;
+    margin: auto;
+    /* height: 400px; */
+    margin-top: 60px;
+}
+
+
+#h1{
+    text-align: center;
+    font-size: 100px;
+   font-family: sans-serif;
+    display: block;
+    margin-top: -20px;
+    font-family: sans-serif;
+}
+
+
+#h2{
+    font-size: 65px;
+    display: block;
+    text-align: center;
+    margin-top: -35px;
+    font-family: sans-serif;
+}
+
+#view{
+    display: block;
+    padding: 12px 30px;
+   margin: auto;
+   font-size: 14px;
+   margin-top: -20px;
+   border-radius: 10px;
+   border: 1px solid gray;
+   background-color: white;
+}
+
+
+#secondBox1{
+    width: 95%;
+    margin: auto;
+    /* border: 1px solid black; */
+    /* height: 800px; */
+    margin-top: 70px;
+    display: flex;
+    gap: 70px;
+}
+
+
+#artistBox1{
+    width: 19%;
+    /* border: 1px solid black; */
+  display: block;
+  border-top:1px solid gray;
+  border-bottom: 1px solid gray;
+}
+
+
+#artist1{
+    display: flex;
+    font-size: 40px;
+    /* margin-top: -1px; */
+    margin-top: 10px;
+    /* padding-bottom: 25px; */
+    color: #35383a;
+}
+
+
+#story1{
+    display: block;
+   /* padding-top: 60px; */
+   color: #35383a;
+   margin-top: -25PX;
+}
+
+.up1{
+    display: block;
+    margin-top: 10px;
+    padding-bottom: 60px;
+    color: #35383a;
+    font-size: 14px;
+   font-family: sans-serif;
+}
+
+#upUnique1{
+    display: block;
+    margin-top: 10px;
+    padding-bottom: 25px;
+    color: #35383a;
+    font-size: 14px;
+   font-family: sans-serif;
+}
+
+.down{
+    color: #35383a;
+}
+
+.up2{
+    display: block;
+    margin-top: 10px;
+    padding-bottom: 60px;
+    color: #35383a;
+    font-size: 13.3px;
+   font-family: sans-serif;
+}
+
+
+#span3{
+    margin-left: 90px;
+   font-family: sans-serif;
+   font-size: 21px;
+}

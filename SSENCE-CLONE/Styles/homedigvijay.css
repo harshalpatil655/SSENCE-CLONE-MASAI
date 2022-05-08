@@ -1,0 +1,95 @@
+#div1{
+    display: flex;
+}
+
+#div1_a{
+    width: 50%;
+}
+
+#div1_b{
+    width: 50%;
+}
+
+#div1_a h1{
+    font-size: 180px;
+    line-height: 50%;
+    text-align: center;
+}
+
+#div1_a h2{
+    font-size: 60px;
+    text-align: center;
+
+}
+
+#div1_a_a{
+    width: 50%;
+    margin-left: 10px;
+    line-height: 30px;
+}
+
+#what_when {
+    width: 50%;
+    margin: auto;
+    margin-top: 10%;
+    /* border: 1px solid red; */
+    /* line-height: 45%; */
+    font-size: x-large
+}
+
+#paragraph1, #paragraph2, #paragraph3, #paragraph4{
+    width: 50%;
+    margin: auto;
+    margin-top: 5%;
+    font-size: x-large;
+
+}
+
+#div_3d, #div_3d2, #div_3d3, #div_3d4{
+    margin: auto;
+    width: 48%;
+    /* border: 1px solid red; */
+    margin-top: 7%;
+}
+
+#last{
+    text-align: center;
+    width: 22%;
+    margin: auto;
+    margin-top: 8%;
+    line-height: 0.7ch;
+}
+
+#divend{
+    display: flex;
+    gap: 70px;
+    margin-top: 40px;
+}
+
+#divlast1 img{
+    width: 40%;
+    margin-right: 30px;
+}
+
+#divlast1{
+    border-top: 1px  solid black;
+    width: 48%;
+}
+
+#divend1{
+    display: flex;
+    /* border: 1px solid red; */
+    gap: 26%;
+    line-height: 3%;
+}
+
+#black{
+    font-size: 80px;
+    line-height: 0%;
+}
+
+#hot_grunge{
+    text-align: center;
+    font-size: 50px;
+}
+

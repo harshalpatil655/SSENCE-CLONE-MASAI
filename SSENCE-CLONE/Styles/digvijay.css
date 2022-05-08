@@ -1,0 +1,32 @@
+#nav{
+    width: 65%;
+    margin: auto;
+    display: flex;
+    justify-content: space-evenly;
+    /* border:  1px solid red; */
+    font-size: 12px;
+    color: #818181;
+    margin-top: 10%;
+    color: rgb(132, 131, 131);
+}
+
+#options{
+    width: 40%;
+    margin: auto;
+    font-size: 13px;
+    color: rgb(158, 157, 157);
+    display: flex;
+    justify-content: space-evenly;
+    /* gap: 15px; */
+    margin-top: -10px;
+}  
+
+#nav a {
+    color: rgb(105, 104, 104);
+    text-decoration: none;
+}
+
+#nav a :hover {
+    text-decoration: none;
+}
+

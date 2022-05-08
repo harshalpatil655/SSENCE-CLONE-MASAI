@@ -1,0 +1,139 @@
+#main{
+    display: flex;
+}
+
+#one{
+
+    text-align: center;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 19px;
+    line-height: 20px;
+    color: #000;
+    
+}
+#sidebar{
+    display: block;
+    justify-content: left;
+    /* padding: 100px; */
+    margin: 50px;
+    /* margin-left: 400px; */
+    /* border: 1px solid red; */
+    
+    width: 150px;
+    height: 200px;
+    margin-top: 100px;
+
+}
+#ac1{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 17px;
+    line-height: 20px;
+    color: #000;
+    margin-bottom: 20px;
+    cursor: pointer;
+    
+}
+
+#ac2>a{
+
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 15px;
+    color: #000;
+    cursor: pointer;
+    
+}
+a:hover{
+    text-decoration: underline;
+}
+a:active{
+    text-decoration: underline;
+}
+
+#two{
+
+    display: block;
+    justify-content: left;
+    /* padding: 100px; */
+    margin: 50px;
+    margin-left: 200px;
+    /* border: 1px solid red; */
+    width: 500px;
+    height: 500px;
+}
+input{
+    width: 90%;
+    height: 30px;
+    padding: 0;
+    margin: 0;
+}
+#tw1{
+
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 15px;
+    color: #000;
+}
+#tw2{
+
+    font-style: normal;
+    font-weight: 500;
+    font-size: 17px;
+    line-height: 20px;
+    color: #000;
+}
+#submit{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 15px;
+    color: #ffffff;
+    background-color: #000;
+    text-align: center;
+    width: 40%;
+    height: 35px;
+    margin-left: 30%;
+    margin-top: 5%;
+    cursor: pointer;
+}
+
+
+#two1>p{
+    padding: 0%;
+    margin: 0%;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 15px;
+    color: #000;
+    
+}
+
+#login{
+    display: block;
+    justify-content: center;
+    width: 500px;
+    margin: 100px;
+    margin-left: 450px;
+    /* text-align: center; */
+    font-style: normal;
+    font-weight: 400;
+    font-size: 19px;
+    line-height: 20px;
+    color: #000;
+    /* border: 1px solid red; */
+}
+
+#submit1>input{
+
+    
+    margin: 0%;
+    padding: 0%;
+    width: 453px;
+    
+}
+

@@ -1,0 +1,46 @@
+#zero{
+    display:flex;
+}
+
+#lhs{
+   margin-top: 100px;
+   margin-left: 100px;
+}
+#mhs>div>img{
+  
+    height:600px;
+    width:400px;
+    margin-left: 80px;
+}
+#mhs>div{
+    margin: auto;
+}
+#rhs{
+    margin-top: 200px;
+    margin-left: 100px;
+}
+#price{
+    font-size: 25px;
+    font-weight: bold;
+}
+select{
+    height: 40px;
+    width:300px;
+    margin-bottom: 30px;
+}
+#one{
+    background-color: black;
+    color: white;
+    border:none;
+    height:30px;
+    width:150px
+}
+#two{
+    border:none;
+    height:30px;
+    width:150px
+}
+p{
+    font-size: 13px;
+    
+}

@@ -1,0 +1,35 @@
+
+#navbar{
+    display:flex;
+    justify-content: space-between;
+    justify-content: space-around;
+  
+    
+}
+#left-nav{
+    display: flex;
+    gap:20px;
+    padding-top: 20px;
+
+  
+}
+
+
+#right-nav{
+    display:flex;
+    gap:20px;
+    padding-top: 20px;
+
+   
+}
+a{
+    text-decoration: none;
+    color:black;
+    font-size: 13px;
+    
+}
+#index{
+    display:block;
+   font-size: 30px;
+ margin-top: -5px;
+}
