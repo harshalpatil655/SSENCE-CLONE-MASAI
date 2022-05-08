@@ -98,7 +98,7 @@ function removeFun(el,i) {
 function  btnFun(el){
 cartData.push(el)
 localStorage.setItem("bagData",JSON.stringify(cartData))
-window.location.href="checkout.html"
+window.location.href="/pranshu.html"
 }
 
 

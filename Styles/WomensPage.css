@@ -1,10 +1,7 @@
 
 
 
-*{
-    padding: 0px;
-    margin: 0px;
-}
+
 #main{
     display:flex;
     justify-content: space-between;
