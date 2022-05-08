@@ -53,7 +53,7 @@ function loginFun() {
 
     if (flag && flag1) {
         alert("Account Verified");
-        window.location.href = "index.html";
+        window.location.href = "/akshay.html";
 
     }
     else {

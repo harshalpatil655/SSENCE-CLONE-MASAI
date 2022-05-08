@@ -38,6 +38,7 @@ input{
     font-family: sans-serif;
     font-size: 10px;
     display: flex;
+    margin-left: 60px;
 }
 #grid1{
     font-family: sans-serif;
@@ -84,4 +85,9 @@ button{
     width: 100%;
     background-color: black;
     color: white;
+}
+#last-button{
+    margin-top: 20px;
+    height: 45px;
+    width:200px;
 }
