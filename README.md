@@ -8,7 +8,7 @@ SEENSE PROJECT
 
 
 # Deployment Link
-- https://akshaypandey-ssense.netlify.app/
+- https://ssence-website-clone.netlify.app/
 
 ## 🚀 Languages Used
 #### HTML, CSS, JavaScript, Bootstrap
